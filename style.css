@@ -1,0 +1,36 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+
+
+    background-color: rgb(11, 11, 15);
+    color: azure;
+    font-size: 15px;
+    text-align: center;
+    
+}
+.bar{ 
+    
+    column-rule-width: 5cm;
+    width: 5cm;
+
+}
+.tt{
+    border-style: groove; 
+     width: fit-content; 
+    margin-left: 17cm;
+    background-color: rgb(24, 20, 37);
+  
+    
+}
+.key{
+    border-style: ridge;
+    background-color: rgb(161, 161, 152);
+    width: 3cm;
+ margin-bottom: 1cm;
+}
+.h1{
+    color: rgb(8, 8, 8);
+}
