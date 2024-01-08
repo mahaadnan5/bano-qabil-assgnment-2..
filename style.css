@@ -13,24 +13,27 @@ body{
 }
 .bar{ 
     
-    column-rule-width: 5cm;
+    column-rule-width: 4cm;
     width: 5cm;
+
 
 }
 .tt{
-    border-style: groove; 
-     width: fit-content; 
-    margin-left: 17cm;
-    background-color: rgb(24, 20, 37);
-  
-    
+border-style: groove;
+width: fit-content;
+margin-left: 15cm;
+background-color: rgb(12, 12, 44);
+
+
 }
 .key{
     border-style: ridge;
-    background-color: rgb(161, 161, 152);
+    background-color: rgb(182, 182, 188);
     width: 3cm;
  margin-bottom: 1cm;
+
 }
 .h1{
     color: rgb(8, 8, 8);
+    font-style: normal;
 }
